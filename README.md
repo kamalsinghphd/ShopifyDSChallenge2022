@@ -2,7 +2,7 @@
 
 Welcome to my repository for the Shopify 2022 Summer Data Science Intern Challenge.
 
-## Regarding the challenge:
+## The challenge:
 
 The answers for the challenge along with the code are provided in the [Kamalpreet_Singh_Shopify_2022_DataScience_Summer_Intern_Challenge.ipynb file](https://github.com/kamalsinghphd/ShopifyDSChallenge2022/blob/main/Kamalpreet_Singh_Shopify_2022_DataScience_Summer_Intern_Challenge.ipynb). 
 
