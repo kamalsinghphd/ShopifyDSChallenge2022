@@ -8,11 +8,15 @@ The answers for the challenge along with the code are provided in the [Kamalpree
 
 **A summary of the solutions is as follows:**
 
+**Question 1:**
+
  Q1a) Outliers in the dataset lead to a skewed average.
  
  Q1b) Median (not as sensitive to outliers) can be used to obtain a more accurate description. 
  
  Q1c) Median value is 284. 
+ 
+ **Question 2:** 
  
  Q2a) Speedy Express shipped 54 orders.
  
@@ -20,7 +24,7 @@ The answers for the challenge along with the code are provided in the [Kamalpree
  
  Q2c) Gorgonzola Telino was the most ordered product in Germany. 
 
-**About me:**
+## About me:
 
 1) My name is Kamalpreet Singh and I am a **PhD candidate** in the Department of Chemistry at the **University of Toronto.** 
 2) **Thesis:** Computational Material Discovery: A DFT and ML Approach. 
